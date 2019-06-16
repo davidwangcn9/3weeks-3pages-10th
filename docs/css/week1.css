@@ -2,3 +2,26 @@
   margin: 0; 
   font-family: Helvetica, sans-serif;
 }
+div{
+    background: green;
+}
+section{
+    background: lightgray;
+}
+header{
+    height: 80px;
+    margin: 20px;
+}
+.lf_header{
+    float: left;
+    margin-left: 150px;
+}
+.rt_header{
+    float: right;
+    margin-right: 400px;
+}
+
+.rt .header_link{
+    font-size: 10px;
+    margin: 20px;
+}
